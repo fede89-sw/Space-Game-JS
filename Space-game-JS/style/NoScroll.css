@@ -1,0 +1,5 @@
+    body{
+	background-color: black;
+        overflow-x:hidden;  /*NASCONDO SCROLLBAR ORIZZONTALE*/
+        overflow-y:hidden;  /*NASCONDO SCROLLBAR VERTICALE*/
+    }
